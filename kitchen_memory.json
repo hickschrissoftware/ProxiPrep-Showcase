@@ -1,0 +1,117 @@
+{
+  "terms": {
+    "dice onio": {
+      "official": "Dice Onion",
+      "category": "produce"
+    },
+    "salm filet": {
+      "official": "Salmon Filet",
+      "category": "seafood"
+    },
+    "garl": {
+      "official": "Garlic",
+      "category": "produce"
+    },
+    "alf sce": {
+      "official": "Alfredo Sauce",
+      "category": "sauce"
+    },
+    "frost velvet cake": {
+      "official": "Velvet Cake Frosting",
+      "category": "desserts"
+    },
+    "rito": {
+      "official": "Rice",
+      "category": "appetizers"
+    },
+    "taco beef": {
+      "official": "Taco Beef",
+      "category": "meat"
+    },
+    "cavatappi": {
+      "official": "Cavatappi",
+      "category": "bulk_prep"
+    },
+    "slice onions": {
+      "official": "Slice Onions",
+      "category": "produce"
+    },
+    "fry spice": {
+      "official": "Fry Spice",
+      "category": "urgent_86"
+    },
+    "bang bang": {
+      "official": "Bang Bang Sauce",
+      "category": "sauces"
+    },
+    "marinate pork belly": {
+      "official": "Marinate Pork Belly",
+      "category": "meat"
+    },
+    "press burgers": {
+      "official": "Press Burgers",
+      "category": "meat"
+    },
+    "cajun shrimp skewers": {
+      "official": "Cajun Shrimp Skewers",
+      "category": "seafood"
+    },
+    "chip crema": {
+      "official": "Chip Crema",
+      "category": "appetizers"
+    },
+    "parm breading": {
+      "official": "Parmesan Breading",
+      "category": "bulk_prep"
+    },
+    "firecracker": {
+      "official": "Firecracker Sauce",
+      "category": "sauces"
+    },
+    "fish batter": {
+      "official": "Fish Batter",
+      "category": "seafood"
+    },
+    "cut calamari": {
+      "official": "Cut Calamari",
+      "category": "seafood"
+    },
+    "chop garlic": {
+      "official": "Chop Garlic",
+      "category": "produce"
+    },
+    "rite": {
+      "official": "Rice",
+      "category": "appetizers"
+    },
+    "chix breasts, pounded": {
+      "official": "Pounded Chicken Breasts",
+      "category": "poultry"
+    },
+    "med dressing": {
+      "official": "Mediterranean Dressing",
+      "category": "sauces"
+    },
+    "kale arugula mix": {
+      "official": "Kale and Arugula Mix",
+      "category": "produce"
+    },
+    "curd batter": {
+      "official": "Curd Batter",
+      "category": "appetizers"
+    },
+    "sliders, pound, marinade": {
+      "official": "Pound and Marinade Sliders",
+      "category": "meat"
+    },
+    "press burgers & pans": {
+      "official": "Press 3 Pans of Burgers",
+      "category": "meat"
+    }
+  },
+  "ignored": [
+    "boneless",
+    "japst onions",
+    "to open"
+  ]
+}
